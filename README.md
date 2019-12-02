@@ -1,4 +1,5 @@
 # ReactNative_Booking #
+A basic React Native application developed on the expo framework. Developed on the iPhone 11 Max with plans to optimize for other ios and android devices.
 
 ## Running Application ##
 * Globally install expo to run the development suite
