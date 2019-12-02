@@ -54,7 +54,8 @@ export const setFlight = () => {
             rating: "",
             ratingText: "",
             secondaryDescription: "",
-            starRatingNumber: ""
+            starRatingNumber: "",
+            total: 0
           }
         ];
       }
