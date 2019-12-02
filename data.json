@@ -1,0 +1,162 @@
+{
+  "carRentalInformation": [
+    {
+      "model": "Kia Rio",
+      "image": "https://images.hgmsites.net/hug/2018-kia-rio_100619450_h.jpg",
+      "modelLevel": "Economy",
+      "numberOfSeats": "4",
+      "storageCapacity": "1 Large - 1 Small Bag",
+      "rating": "8.7/10",
+      "price": "44",
+      "rentalCompany": "",
+      "rentalCompanyLogo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/1979/brand.gif?itok=ICzzRvBy"
+    },
+    {
+      "model": "Nissan Maxima",
+      "image": "https://www.scottclarknissan.com/assets/shared/CustomHTMLFiles/Responsive/MRP/Nissan/2019/Maxima/images/2019-Nissan-Maxima-01.jpg",
+      "modelLevel": "Premium",
+      "numberOfSeats": "4",
+      "storageCapacity": "2 Large - 2 Small Bag",
+      "rating": "8.1/10",
+      "price": "60",
+      "rentalCompany": "",
+      "rentalCompanyLogo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/1979/brand.gif?itok=ICzzRvBy"
+    },
+    {
+      "model": "Ford F150 ",
+      "image": "https://s1.cdn.autoevolution.com/images/gallery/FORD-F-150-Super-Crew-5092_25.jpg",
+      "modelLevel": "Truck",
+      "numberOfSeats": "4",
+      "storageCapacity": "3 Large - 3 Small Bag",
+      "rating": "9.3/10",
+      "price": "75",
+      "rentalCompany": "",
+      "rentalCompanyLogo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/1979/brand.gif?itok=ICzzRvBy"
+    }
+  ],
+  "flightInformation": [
+    {
+      "departing": {
+        "date": "Jul 24",
+        "departingAirport": "YYZ",
+        "destinationAirport": "YYC",
+        "departTime": "20:00",
+        "landingTime": "22:12",
+        "price": "163",
+        "stops": 1,
+        "flightTime": "4h 12",
+        "company": "WestJet",
+        "companyLogo": "https://pbs.twimg.com/profile_images/1145701560049004544/uJB7ZUgL_400x400.jpg"
+      },
+      "returning": {
+        "date": "Jul 29",
+        "departingAirport": "YYC",
+        "destinationAirport": "YYZ",
+        "departTime": "19:00",
+        "landingTime": "21:12",
+        "price": "163",
+        "stops": 1,
+        "flightTime": "4h 12",
+        "company": "WestJet",
+        "companyLogo": "https://pbs.twimg.com/profile_images/1145701560049004544/uJB7ZUgL_400x400.jpg"
+      },
+      "total": 163 + 163
+    },
+    {
+      "departing": {
+        "date": "Jul 24",
+        "departingAirport": "YYZ",
+        "destinationAirport": "YYC",
+        "departTime": "20:30",
+        "landingTime": "22:42",
+        "price": "180",
+        "stops": 1,
+        "flightTime": "4h 12",
+        "company": "Air Canada",
+        "companyLogo": "http://moments.aircanada.com/themes/75th/images/AC_Logo_Vertical_onWhite.png"
+      },
+      "returning": {
+        "date": "Jul 29",
+        "departingAirport": "YYC",
+        "destinationAirport": "YYZ",
+        "departTime": "18:30",
+        "landingTime": "20:42",
+        "price": "200",
+        "stops": 1,
+        "flightTime": "4h 12",
+        "company": "Air Canada",
+        "companyLogo": "http://moments.aircanada.com/themes/75th/images/AC_Logo_Vertical_onWhite.png"
+      },
+      "total": 180 + 200
+    },
+    {
+      "departing": {
+        "date": "Jul 24",
+        "departingAirport": "YYZ",
+        "destinationAirport": "YYC",
+        "departTime": "17:00",
+        "landingTime": "22:12",
+        "price": "140",
+        "stops": 2,
+        "flightTime": "7h 12",
+        "company": "Delta",
+        "companyLogo": "https://environmentalcareer.com/files/pictures/DeltaAirlines-logo.png"
+      },
+      "returning": {
+        "date": "Jul 29",
+        "departingAirport": "YYC",
+        "destinationAirport": "YYZ",
+        "departTime": "15:00",
+        "landingTime": "21:12",
+        "price": "175",
+        "stops": 2,
+        "flightTime": "7h 12",
+        "company": "Delta",
+        "companyLogo": "https://environmentalcareer.com/files/pictures/DeltaAirlines-logo.png"
+      },
+      "total": 140 + 175
+    }
+  ],
+  "hotelInformation": [
+    {
+      "name": "Alt Hotel Calgary East Village",
+      "description": "Event Partner Exclusive Deal",
+      "secondaryDescription": "5 minute walk to destination",
+      "price": "163",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/d0/a2/1d/exterior-of-the-hotel.jpg",
+      "rating": "9.5",
+      "ratingText": "Superb",
+      "starRatingNumber": "4"
+    },
+    {
+      "name": "Element Calgary Airport",
+      "description": "Elevate your Alberta experience",
+      "secondaryDescription": "Prime access to downtown Calgary",
+      "price": "180",
+      "image": "https://cache.marriott.com/marriottassets/marriott/YYCEL/yycel-exterior-4351-hor-feat.jpg",
+      "rating": "8.9",
+      "ratingText": "Excellent",
+      "starRatingNumber": "4"
+    },
+    {
+      "name": "Radisson Hotel & Conference Centre",
+      "description": "The perfect place for air travellers",
+      "secondaryDescription": "10 minutes from the Calgary International Airport",
+      "price": "150",
+      "image": "https://media.radissonhotels.net/image/Radisson-Hotel-Conference-Centre-Calgary-Airport/Exteriorview/16256-113862-f63742433_3XL.jpg?impolicy=CustomCrop&cwidth=670&cheight=603",
+      "rating": "8.6",
+      "ratingText": "Very Good",
+      "starRatingNumber": "3.5"
+    }
+  ],
+  "UserInformation": {
+    "title": "Calgary Tech Conference",
+    "departingDate": "July 24",
+    "departingLocation": "Toronto, ON",
+    "departingTime": "8:30",
+    "returningDate": "July 29",
+    "returningLocation": "Calgary, AB",
+    "returningTime": "8:30",
+    "tripDuration": ""
+  }
+}
